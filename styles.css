@@ -3,10 +3,10 @@
 .navbar {
     background-color: #1A2E49;
 }
-
+/* 
 .navbar .nav-link {
     color: #fff !important;
-}
+} */
 
 /* Hero Section */
 .hero {
@@ -16,13 +16,13 @@
     background-size: cover;
     color: #fff;
     padding: 10rem 0;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
 }
 
-.btn {
+/* .btn {
     background: #1A2E49;
 }
-
+ */
 /* Features Section */
 /* .card {
     transition: transform 0.3s ease-in-out;
