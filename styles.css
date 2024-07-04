@@ -4,7 +4,6 @@
     background-color: #1A2E49;
 }
 
-
 /* Hero Section */
 .hero {
     background-image: url('/img/pexels-anne-sophie-parent-1111377-2105416.jpg');
@@ -13,27 +12,18 @@
     background-size: cover;
     color: #fff;
     padding: 10rem 0;
-    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
+    
 }
-
-
 
 /* Testimonials Section */
-
-.carousel-inner {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
 .carousel-item {
     padding: 5rem 0;
 }
-
 
 .carousel-item .card {
     max-width: 400px;
     margin: auto;
 }
-
 
 /* Footer */
 footer {
