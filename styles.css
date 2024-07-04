@@ -1,0 +1,70 @@
+
+/* Navbar */
+.navbar {
+    background-color: #1A2E49;
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('/img/pexels-anne-sophie-parent-1111377-2105416.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 10rem 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.btn {
+    background: #1A2E49;
+}
+
+/* Features Section */
+.card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Testimonials Section */
+
+.carousel-inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.carousel-item {
+    padding: 5rem 0;
+}
+
+
+.carousel-item .card {
+    max-width: 400px;
+    margin: auto;
+}
+
+/* Contact Section */
+form {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+form .form-control {
+    margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #1A2E49;
+    color: #fff;
+    padding: 1rem 0;
+}
