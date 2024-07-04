@@ -16,10 +16,6 @@
 }
 
 /* Testimonials Section */
-.carousel-item {
-    padding: 5rem 0;
-}
-
 .carousel-item .card {
     max-width: 400px;
     margin: auto;
