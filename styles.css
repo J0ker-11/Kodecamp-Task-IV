@@ -3,10 +3,7 @@
 .navbar {
     background-color: #1A2E49;
 }
-/* 
-.navbar .nav-link {
-    color: #fff !important;
-} */
+
 
 /* Hero Section */
 .hero {
@@ -19,18 +16,7 @@
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
 }
 
-/* .btn {
-    background: #1A2E49;
-}
- */
-/* Features Section */
-/* .card {
-    transition: transform 0.3s ease-in-out;
-}
 
-.card:hover {
-    transform: translateY(-5px);
-} */
 
 /* Testimonials Section */
 
@@ -48,16 +34,6 @@
     margin: auto;
 }
 
-/* Contact Section */
-/* form {
-    background-color: #f8f9fa;
-    padding: 2rem;
-    border-radius: 5px;
-} */
-
-/* form .form-control {
-    margin-bottom: 1rem;
-} */
 
 /* Footer */
 footer {
