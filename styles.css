@@ -1,9 +1,7 @@
-
 /* Navbar */
 .navbar {
     background-color: #1A2E49;
 }
-
 /* Hero Section */
 .hero {
     background-image: url('/img/pexels-anne-sophie-parent-1111377-2105416.jpg');
@@ -11,15 +9,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10rem 0;
-    
 }
-
 /* Testimonials Section */
 .carousel-item .card {
     max-width: 400px;
     margin: auto;
 }
-
 /* Footer */
 footer {
     position: fixed;
