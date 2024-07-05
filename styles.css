@@ -4,7 +4,7 @@
 }
 /* Hero Section */
 .hero {
-    background-image: url('/assets/img/pexels-anne-sophie-parent-1111377-2105416.jpg');
+    background-image: url('./img/pexels-anne-sophie-parent-1111377-2105416.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
